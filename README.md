@@ -20,10 +20,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olumor10&show_icons=true&theme=merko)](https://github.com/olumor10/github-readme-stats)
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Imagem">
-</p>
-https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif
+[Gif](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)
+
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
