@@ -19,7 +19,6 @@
 ![Romulo GitHub stats](https://github-readme-stats.vercel.app/api?username=olumor10&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olumor10&show_icons=true&theme=merko)](https://github.com/olumor10/github-readme-stats)
 
-## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
