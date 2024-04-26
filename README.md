@@ -1,13 +1,13 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">👋 Olá! Eu sou Rômulo</h1></summary>
+    <summary><h1 style="display: inline-block">👋 Hi there! I'm Rômulo</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
 
-  - 🌱 Atualmente estou estudando Ciência de Dados.
+  - 🌱 I'm currently studying Data Science.
 </p>
 
 <!-- Links -->
